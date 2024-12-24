@@ -1,0 +1,13 @@
+{
+    "topic": "my-app-name",
+    "commands": {
+      "echo": {
+        "description": "Echo a message back",
+        "args": ["message"]
+      },
+      "add": {
+        "description": "Add two numbers",
+        "args": ["a", "b"]
+      }
+    }
+  }
